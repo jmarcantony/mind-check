@@ -1,1 +1,1 @@
-print("Helth")
+print("health")
